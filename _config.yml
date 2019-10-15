@@ -1,6 +1,6 @@
-title: Kocurek Jekyll Theme Template
-description: A plug-and-play template for creating a GitHub Pages site using the Kocurek Jekyll Theme
-url: "https://cityofaustin.github.io/jekyll-theme-kocurek-template"
+title: PEC Operational Policy
+description: Official PEC Operational Policy 
+url: "https://cityofaustin.github.io/accd-pec-operational-policy"
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek
 searchable: true
