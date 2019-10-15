@@ -1,5 +1,3 @@
 ---
-title: Kocurek Jekyll Theme Template
+title: Homepage
 ---
-
-This is the homepage.

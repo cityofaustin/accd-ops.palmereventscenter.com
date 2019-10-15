@@ -11,10 +11,130 @@ collections:
   posts:
     output: false
     section_order: 0
-  section_one:
+  accessibility:
+    name: Accessibility
     output: true
-    name: Section One
     section_order: 1
+  animals:
+    name: Animals
+    output: true
+    section_order: 2
+  audio_visual:
+    name: Audio/Visual and Rigging
+    output: true
+    section_order: 3
+  catering:
+    name: Catering
+    output: true
+    section_order: 4
+  equipment:
+    name: Equipment, Furniture, and Pre-Function Space
+    output: true
+    section_order: 5
+  escalators_and_elevators:
+    name: Escalators and Elevators
+    output: true
+    section_order: 6
+  event_planning:
+    name: Event Planning and Planners Checklist
+    output: true
+    section_order: 7
+  exclusive_services:
+    name: Exclusive Services
+    output: true
+    section_order: 8
+  exhibitor_guidelines:
+    name: Exhibitor Guidelines
+    output: true
+    section_order: 9
+  exhibits:
+    name: Exhibits
+    output: true
+    section_order: 10
+  fire_department_regulations:
+    name: Fire Department Regulations
+    output: true
+    section_order: 11
+  firearms_and_weapons:
+    name: Firearms and Weapons
+    output: true
+    section_order: 12
+  freight_and_shipments:
+    name: Freight and Shipment of Materials
+    output: true
+    section_order: 13
+  health_and_safety:
+    name: Health and Safety
+    output: true
+    section_order: 14
+  labor_services:
+    name: Labor Services
+    output: true
+    section_order: 15
+  lighting_and_energy_conservation:
+    name: Lighting and Energy Conservation
+    output: true
+    section_order: 16
+  loading_docks_and_ramps:
+    name: Loading Docks and Ramps
+    output: true
+    section_order: 17
+  media_and_public_relations:
+    name: Media and Public Relations
+    output: true
+    section_order: 18
+  motorized_equipment:
+    name: Motorized Equipment
+    output: true
+    section_order: 19
+  move_in_move_out:
+    name: Move-In/Move-Out
+    output: true
+    section_order: 20
+  operable_walls:
+    name: Operable Walls
+    output: true
+    section_order: 21
+  parking_and_shuttles:
+    name: Parking and Shuttles
+    output: true
+    section_order: 22
+  permits_and_licenses:
+    name: Permits and Licenses
+    output: true
+    section_order: 23
+  preventable_facility_damage:
+    name: Preventable Facility Damage
+    output: true
+    section_order: 24
+  recycling_and_trash:
+    name: Recycling and Trash
+    output: true
+    section_order: 25
+  rigging_and_hanging:
+    name: Rigging and Hanging
+    output: true
+    section_order: 26
+  sales_tax:
+    name: Sales Tax
+    output: true
+    section_order: 27
+  security:
+    name: Security
+    output: true
+    section_order: 28
+  services_and_amenities:
+    name: Services and Amenities
+    output: true
+    section_order: 29
+  signage_and_decorations:
+    name: Signage and Decorations
+    output: true
+    section_order: 30
+  utilities:
+    name: Utilities
+    output: true
+    section_order: 31
 permalink: pretty
 defaults:
   -
