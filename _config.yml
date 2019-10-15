@@ -1,0 +1,36 @@
+title: Kocurek Jekyll Theme Template
+description: A plug-and-play template for creating a GitHub Pages site using the Kocurek Jekyll Theme
+url: "https://cityofaustin.github.io/jekyll-theme-kocurek-template"
+theme: 
+remote_theme: cityofaustin/jekyll-theme-kocurek
+searchable: true
+printable: true
+banner_image: homepage_banner.png
+collections_dir: collections
+collections:
+  posts:
+    output: false
+    section_order: 0
+  section_one:
+    output: true
+    name: Section One
+    section_order: 1
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: "collections/*/*.md"
+    values:
+      layout: "default"
+      permalink: /:collection/:title
+  -
+    scope:
+      path: "collections/*/index.md"
+    values:
+      layout: "section"
+      permalink: /:collection
+  -
+    scope:
+      path: "index.md"
+    values:
+      layout: "homepage"

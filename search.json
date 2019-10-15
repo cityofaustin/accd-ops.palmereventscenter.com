@@ -1,0 +1,19 @@
+---
+layout: null
+---
+[
+  {%- assign collections = site.collections | sort: 'section_order' -%}
+  {%- for collection in collections -%}
+  {%- unless collection.label == 'posts' -%}
+  {%- assign docs = collection.docs | sort: 'order' -%}
+  {%- for item in docs -%}
+  {
+    "title" : "{{ item.title | escape }}",
+    "content" : "[{{ item.content | strip_html | strip_newlines | remove_chars | escape }}]",
+    "url" : "{{site.url}}{{item.url}}",
+    "collectionLabel" : "{{ collection.label }}"
+  }{%- unless forloop.last and collection.label == collections.last.label -%}, {%- endunless -%}
+  {%- endfor -%}
+  {%- endunless -%}
+  {%- endfor -%}
+]
