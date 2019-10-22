@@ -5,7 +5,7 @@ theme:
 remote_theme: cityofaustin/jekyll-theme-kocurek
 searchable: true
 printable: true
-banner_image: homepage_banner.png
+banner_image: banner-image.jpg
 collections_dir: collections
 collections:
   posts:
