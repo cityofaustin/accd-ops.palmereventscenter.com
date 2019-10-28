@@ -154,3 +154,8 @@ defaults:
       path: "index.md"
     values:
       layout: "homepage"
+  -
+    scope:
+      path: "pdf.md"
+    values:
+      layout: "pdf"
