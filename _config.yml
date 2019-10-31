@@ -20,51 +20,51 @@ collections:
     output: true
     section_order: 2
   audio_visual:
-    name: Audio/Visual and Rigging
+    name: Rigging/Audio Visual
     output: true
     section_order: 3
-  catering:
-    name: Catering
+  health_and_safety:
+    name: Health and Safety
     output: true
     section_order: 4
   equipment:
     name: Equipment, Furniture, and Pre-Function Space
     output: true
     section_order: 5
-  escalators_and_elevators:
-    name: Escalators and Elevators
+  elevators:
+    name: Elevators
     output: true
     section_order: 6
   event_planning:
-    name: Event Planning and Planners Checklist
+    name: Event Planning and Planner's Checklist
     output: true
     section_order: 7
-  exclusive_services:
-    name: Exclusive Services
+  exhibits:
+    name: Exhibits
     output: true
     section_order: 8
   exhibitor_guidelines:
     name: Exhibitor Guidelines
     output: true
     section_order: 9
-  exhibits:
-    name: Exhibits
+  exclusive_services:
+    name: Exclusive Services
     output: true
     section_order: 10
-  fire_department_regulations:
-    name: Fire Department Regulations
-    output: true
-    section_order: 11
   firearms_and_weapons:
     name: Firearms and Weapons
     output: true
+    section_order: 11
+  fire_department_regulations:
+    name: Fire Department Regulations
+    output: true
     section_order: 12
-  freight_and_shipments:
-    name: Freight and Shipment of Materials
+  catering:
+    name: Catering
     output: true
     section_order: 13
-  health_and_safety:
-    name: Health and Safety
+  freight_and_shipments:
+    name: Freight and Shipment of Materials
     output: true
     section_order: 14
   labor_services:
@@ -84,11 +84,11 @@ collections:
     output: true
     section_order: 18
   motorized_equipment:
-    name: Motorized Equipment
+    name: Motorized Equipment and Vehicles
     output: true
     section_order: 19
   move_in_move_out:
-    name: Move-In/Move-Out
+    name: Move-In and Move-Out
     output: true
     section_order: 20
   operable_walls:
@@ -96,7 +96,7 @@ collections:
     output: true
     section_order: 21
   parking_and_shuttles:
-    name: Parking and Shuttles
+    name: Parking Areas and Shuttle Buses
     output: true
     section_order: 22
   permits_and_licenses:
@@ -108,11 +108,11 @@ collections:
     output: true
     section_order: 24
   recycling_and_trash:
-    name: Recycling and Trash
+    name: Recycling and Trash Removal
     output: true
     section_order: 25
   rigging_and_hanging:
-    name: Rigging and Hanging
+    name: Rigging and Hanging Points
     output: true
     section_order: 26
   sales_tax:
@@ -120,7 +120,7 @@ collections:
     output: true
     section_order: 27
   security:
-    name: Security
+    name: Facility Security, Event Security, and Public Safety
     output: true
     section_order: 28
   services_and_amenities:

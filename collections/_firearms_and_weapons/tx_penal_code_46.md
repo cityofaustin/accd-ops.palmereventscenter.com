@@ -19,7 +19,7 @@ order: 2
 - Any additional background requested by the Security and Safety Division.	
 - Any supporting material for consideration.
 					
-**Costume Weapons (Cosplay):**
+### C. Costume Weapons (Cosplay):
 
 - Events anticipated to attract a large number of costumed attendees may be required to have a dedicated safety inspection area prior to entering the event. Staffing charges may apply in these cases.
 - Exhibitors and vendors that sell Cosplay, Demo, or other weapons:
@@ -27,3 +27,7 @@ order: 2
  - Weapons must be sold in a sealed box.
  - Weapons must be immediately removed from the facility.
  - It is highly suggested that exhibitors/clients have a plan to store sold weapons until removed from the facility by the purchaser. 
+
+### D. License to Carry Policy
+
+**We follow all applicable State and local laws regarding the license to carry handguns in the facilities.** 
