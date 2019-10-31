@@ -1,5 +1,5 @@
 ---
-title: Audio/Visual and Rigging
+title: Rigging/Audio Visual
 order: 1
 ---
 
