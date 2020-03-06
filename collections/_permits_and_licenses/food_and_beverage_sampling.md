@@ -7,7 +7,7 @@ Food and Beverage services are exclusive by ACCD Catering. No outside food and/o
 
 **To begin your sampling process, fill out the following form and attain the following permit:**
 
-- ACCD Catering – Sampling Request Form to be submitted to the Catering Manager
+- ACCD Catering – [Sampling Request Form](https://assets.ctfassets.net/udgb73wd1wek/2MIpKtNLkJKkxia7QsO5M4/b2b3f13aef02deea4c638f1f67842fe8/F_B_Sampling_Form_2020_Kim__1_.pdf) to be submitted to the Catering Manager
 - ACCD Catering – Sampling Request Form to be submitted to the Catering Manager
 City of Austin / Travis County Health Department – [Temporary Food Service, Permit to Operate](http://www.austintexas.gov/sites/default/files/files/Health/Environmental/Food/Operational_Permit_Application_TFE_111918.pdf) (to be completed by show management)
 
