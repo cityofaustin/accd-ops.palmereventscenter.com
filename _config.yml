@@ -9,7 +9,7 @@ random_background_images: 3
 parent_site:
   title: Palmer Events Center
   url: https://www.palmereventscenter.com
-  logo: "pec-logo.jpg"
+  logo: "pec-logo.png"
 google_analytics: UA-87703455-12
 collections_dir: collections
 collections:
