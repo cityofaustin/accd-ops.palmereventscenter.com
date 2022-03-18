@@ -15,7 +15,8 @@ Abusive language, disruptive music, threats, assault, vandalism, theft, and othe
 
 ### Exhibitor Booth Security
 
-Exhibitors who wish to hire additional event security staff for exhibit booths may do so by filling out the “ACCD Exhibitor Booth Security Order Form” located on the following hyperlink. Please return the form to your assigned Security Coordinator. [Hyperlink to “client Security and Safety Guide”]
+Exhibitors who wish to hire additional event security staff for exhibit booths may do so by filling out the “ACCD Exhibitor Booth Security Order Form” located on the following hyperlink. Please return the form to your assigned Security Coordinator. [Client Security and Safety Guide](https://assets.ctfassets.net/xv1q576gx3e5/3l5PrgWkkOclgdopBpEUCl/cc3b2db174919b20c388367b959af3ec/ACCD_Client_Resources___Safety_Plan_2022.pdf)
+
 
 ### Event Costume Policy 
 
@@ -38,4 +39,4 @@ Failure to comply with these guidelines may result in removal of the attendee or
 
 ### Liquid, Gas, and Electric Fueled Vehicles/Boats/RV’s and Equipment for Display
 
-In accordance with 2015 International Fire Code Section 314.4, all vehicles, boats, RV’s, and equipment which generate power by the use of a liquid, gas, or electricity must be inspected prior to entering the facility. Please refer to the “Requirements for Fueled Display Vehicles/Boats/RV’s, and Equipment” located on the following hyperlink. [Hyperlink to “client Security and Safety Guide”]
+In accordance with 2015 International Fire Code Section 314.4, all vehicles, boats, RV’s, and equipment which generate power by the use of a liquid, gas, or electricity must be inspected prior to entering the facility. Please refer to the “Requirements for Fueled Display Vehicles/Boats/RV’s, and Equipment” located on the following hyperlink. [Client Security and Safety Guide](https://assets.ctfassets.net/xv1q576gx3e5/3l5PrgWkkOclgdopBpEUCl/cc3b2db174919b20c388367b959af3ec/ACCD_Client_Resources___Safety_Plan_2022.pdf)
