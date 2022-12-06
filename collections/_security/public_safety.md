@@ -9,4 +9,4 @@ Palmer Events Center has the exclusive right to hire Texas Licensed Peace Office
 
 ### Emergency Medical Technician(s) 
 
-At Palmer Events Center, the safety and well-being of guests is very important. Therefore, we ask clients to prepare for potential medical emergencies. Depending on the size and type of event, emergency medical technician(s) (EMTs) may be suitable and/or required to be on-site during move-in/move-out or during show hours. EMTs are scheduled for hire through your assigned Security Coordinator based on the prevailing rate.
+At Palmer Events Center, the safety and well-being of guests is very important. Therefore, we ask clients to prepare for potential medical emergencies. Depending on the size and type of event, emergency medical technician(s) (EMTs) may be suitable and/or required to be on-site during move-in/move-out or during show hours. Notify your Security Coordinator at least 30 days in advance of the EMS provider contracted for your event including contact information.
