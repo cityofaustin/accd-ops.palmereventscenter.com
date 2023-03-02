@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "simple-jekyll-search": "^1.7.7"
+    "simple-jekyll-search": "^1.10.0"
   },
   "devDependencies": {},
   "scripts": {
