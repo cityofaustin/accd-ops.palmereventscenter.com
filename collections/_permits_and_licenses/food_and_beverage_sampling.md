@@ -5,6 +5,16 @@ order: 2
 
 Food and Beverage services are exclusive by ACCD Catering. No outside food and/or beverages are permitted on premise. In some cases, an exception may be made for sampling. “Sampling” is defined as an exhibiting company (booth exhibitor) that wishes to distribute small portions of food and/or beverage from their booth.
 
+### Sterno requirements for ACC/PEC
+
+1. Only wicked sterno devices allowed. No gel allowed in exhibit halls.
+2. Sterno canisters used with equipment consistent with industry standards. Sterno canisters
+not allowed to be placed directly on table cloth or any other combustible material.
+3. Not allowed within 3 feet of pipe and drape.
+4. Not allowed within 5 feet of combustible displays or storage.
+5. Not allowed within 10 feet of exits.
+6. Fire extinguisher placed within 30 feet of exhibitor booth using sterno.
+
 **To begin your sampling process, fill out the following form and attain the following permit:**
 
 - ACCD Catering – [Sampling Request Form](https://assets.ctfassets.net/udgb73wd1wek/2MIpKtNLkJKkxia7QsO5M4/b2b3f13aef02deea4c638f1f67842fe8/F_B_Sampling_Form_2020_Kim__1_.pdf) to be submitted to the Catering Manager
