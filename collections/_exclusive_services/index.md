@@ -12,3 +12,7 @@ Palmer Events Center offers the following exclusive services:
 - [Rigging](https://www.austinconventioncenter.com/guidelines-and-resources/) - Freeman Audio Visual is our preferred rigging vendor and audio visual vendor.
 
 For details, visit our Services page.
+
+### More Information
+
+For more information, email [keith.sparks@austintexas.gov](mailto.keith.sparks@austintexas.gov)
