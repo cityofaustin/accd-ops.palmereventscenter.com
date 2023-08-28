@@ -39,4 +39,4 @@ Failure to comply with these guidelines may result in removal of the attendee or
 
 ### Liquid, Gas, and Electric Fueled Vehicles/Boats/RV’s and Equipment for Display
 
-In accordance with 2015 International Fire Code Section 314.4, all vehicles, boats, RV’s, and equipment which generate power by the use of a liquid, gas, or electricity must be inspected prior to entering the facility. Please refer to the “Requirements for Fueled Display Vehicles/Boats/RV’s, and Equipment” located on the following hyperlink. [Vehicle Requirements](https://ops.austinconventioncenter.com/fire_department_regulations/vehicles)
+In accordance with 2015 International Fire Code Section 314.4, all vehicles, boats, RV’s, and equipment which generate power by the use of a liquid, gas, or electricity must be inspected prior to entering the facility. Please refer to the “Requirements for Fueled Display Vehicles/Boats/RV’s, and Equipment” located on the following hyperlink: [Vehicle Requirements](https://ops.palmereventscenter.com/fire_department_regulations/vehicles)
