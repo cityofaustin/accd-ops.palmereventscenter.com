@@ -11,4 +11,4 @@ Palmer Events Center offers the following exclusive services:
 - [Utilities](https://www.palmereventscenter.com/exhibit/) – Electrical services, technical services, compressed air, water, and drain.
 - [Rigging](https://www.palmereventscenter.com/guidelines-and-resources/) - Freeman Audio Visual is our preferred rigging vendor and audio visual vendor.
 
-For details, visit our Services page.
+For details, visit our [Services](https://www.palmereventscenter.com/services/) page.
