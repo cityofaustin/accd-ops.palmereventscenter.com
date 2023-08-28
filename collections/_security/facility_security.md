@@ -11,19 +11,19 @@ A department Incident Commander (IC) is always available and identified based on
 
 ### Emergency Procedures:
 
-Palmer Events Center has evacuation and emergency plans. During your initial visit, or contact via email, your Security Coordinator will provide you with the facilities client Security and Safety Guide. The guide provides essential information regarding Facility Evacuation or Lockdown, Medical Emergency, Power Outage, Weather, and Hazardous Material response. Please take the time to familiarize yourself, your staff, volunteers, exhibitors, and contractors with the security and safety procedures. [Hyperlink to “client Security and Safety Guide”]
+Palmer Events Center has evacuation and emergency plans. During your initial visit, or contact via email, your Security Coordinator will provide you with the facilities client Security and Safety Guide. The guide provides essential information regarding Facility Evacuation or Lockdown, Medical Emergency, Power Outage, Weather, and Hazardous Material response. Please take the time to familiarize yourself, your staff, volunteers, exhibitors, and contractors with the security and safety procedures.
 
 ### Facility Access:
 
 All event personnel, including the employees of service contractors, must check in with Palmer Event Center security upon entering the facility. A daily credential will be issued to all event personnel on-site and they should wear the credential until they depart for the day. All event personnel and service contractors are to enter through the following service yard entrances:
 
-For Palmer Events Center: Direct link to Google Maps (Address: 736 Barton Springs Rd.)
+For Palmer Events Center: 736 Barton Springs Road link to [Google Maps](https://www.google.com/maps/place/736-820+Barton+Springs+Rd,+Austin,+TX+78704/@30.259208,-97.7517966,17z/data=!3m1!4b1!4m6!3m5!1s0x8644b504bb30643d:0x9a4ec02565fb0d8f!8m2!3d30.259208!4d-97.7517966!16s%2Fg%2F11fgm7ypy0?entry=ttu).
 
 Restricted areas of the facility labeled “Authorized Personnel Only”, “Restricted Access”, or “client Access Only” are off limits to all persons except those authorized by clients, staff, and Event Coordinator. Questions regarding access to restricted leased areas of an event will be addressed through the Event Coordinator.
 
 Access to the facility for move-in/set-up, show and move-out/teardown is allowed on the date(s) and time(s) listed in the facility rental contract under paragraph 1, “Licensed Premises”.
 
-Children (under 17 years of age) are prohibited from being in the exhibit halls, dock areas, service corridors, and the service yard during an active move-in or out. Clients may contact the Event Coordinator in advance to sign and agree to the terms included in the “Child Waiver/Liability Release” form, which may be found here. [Hyperlink to “client Security and Safety Guide”]
+Children (under 17 years of age) are prohibited from being in the exhibit halls, dock areas, service corridors, and the service yard during an active move-in or out. Clients may contact the Event Coordinator in advance to sign and agree to the terms included in the “Child Waiver/Liability Release” form.
 
 ### Keys and Lock Changes
 
@@ -31,7 +31,7 @@ Keys are not available for exhibit hall doors. A fee will be assessed for each k
 
 A charge will be assessed for lock changes or interchangeable core locks.
 
-Proximity access cards issued to a client are considered “Keys”. All above conditions noted above apply to proximity access cards. [Hyperlink to “Equipment and Service Rates”]
+Proximity access cards issued to a client are considered “Keys”. All above conditions noted above apply to proximity access cards. Check the [Equipment and Service Rates](https://assets.palmereventscenter.com/2023/PEC_Equipment_Services_FY2023.pdf).
 
 All key and proximity access card orders will be ordered through your assigned Event Coordinator.
 
