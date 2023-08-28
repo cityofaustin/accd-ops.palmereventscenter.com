@@ -25,7 +25,8 @@ Steps to attain a right of way permit:
  1. Click on ‘Apply for Right of Way Permits’ on the left side of the screen.
  1. ‘Select Application Type’ as Right of Way. Follow steps.
  1. Include insurance and bond information for all Temporary Use of Right of Way permits under 
- 1. Here’s a [guide](https://www.austintexas.gov/sites/default/files/files/Transportation/Right_of_Way/How_to_Apply_for_Permits_on_the_ABC_Website.pdf) on how to apply for a Right of Way permit. Begin on page 38.
+ 1. Here’s a [guide](https://assets.palmereventscenter.com/2023/How_to_Apply_for_Permits_on_the_ABC_Website.pdf
+) on how to apply for a Right of Way permit. Begin on page 38.
 - If Palmer Events Center is required to dismantle any sign, clients will be charged the applicable labor and equipment charges at the prevailing rates.
 - Plans for all directional and informational signs, as well as plans for banners, special graphics or decorations in public areas must be reviewed by your Event Coordinator.
 - We do not provide event-related directional signage.
