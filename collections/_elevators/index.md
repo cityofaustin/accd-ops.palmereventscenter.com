@@ -7,4 +7,4 @@ For accessibility reasons, passenger elevators may not be blocked or used to tra
 
 ### Reference:
 
-[Elevator Dimensions](https://assets.ctfassets.net/udgb73wd1wek/2w0t3CNYBPuPCTRNhnvw8D/04862953729b7a43ab5a4e3b5d8ab069/PEC_service_elevator_dimensions_2020.pdf)
+[Elevator Dimensions](https://assets.palmereventscenter.com/2023/PEC_service_elevator_dimensions_2020.pdf)
