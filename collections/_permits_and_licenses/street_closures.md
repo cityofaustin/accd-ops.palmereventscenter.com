@@ -14,7 +14,7 @@ The City of Austin Transportation Department must be contacted to obtain any str
 1. Click on ‘Apply for Right of Way Permits’ on the left side of the screen. 
 1. 'Select Application Type' as Right of Way. Follow steps.
 1. Include insurance and bond information for all Temporary Use of Right of Way permits under 
-1. Here’s a [guide](https://www.austintexas.gov/sites/default/files/files/Transportation/Right_of_Way/How_to_Apply_for_Permits_on_the_ABC_Website.pdf) on how to apply for a Right of Way permit. Begin on page 38.
+1. Here’s a [guide](https://assets.palmereventscenter.com/2023/How_to_Apply_for_Permits_on_the_ABC_Website.pdf) on how to apply for a Right of Way permit. Begin on page 38.
 
 ### Things to know:
 
