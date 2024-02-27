@@ -12,4 +12,4 @@ The following requirements are mandated for all decorator or service contractor 
 - e. While working on-site all decorator and/or service contractor staff and labor may only smoke at designated ACCD smoking areas.
 - f. ACCD Break rooms are for PEC employees only.
 
-The GSC is required to place at least one (1) person at the entrance gate to the service yard to issue dock passes during move-in and move-out. This person must work in conjunction with the ACC Security Event Staff.
+The GSC is required to place at least one (1) person at the entrance gate to the service yard to issue dock passes during move-in and move-out. This person must work in conjunction with the PEC Security Event Staff.
