@@ -1,6 +1,6 @@
 ---
 title: Multi-Level/Two-Story and Covered Booths
-order: 7
+order: 6
 ---
 
 Plans for multi-level exhibits must be reviewed and approved a minimum of ninety (90) days prior to the event. The following requirements apply to all Multi-Level Booths. Maximum Occupant Load of 9 for second level.
