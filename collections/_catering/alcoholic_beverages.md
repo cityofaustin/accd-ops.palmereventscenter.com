@@ -3,7 +3,7 @@ title: Alcoholic Beverages
 order: 2
 ---
 
-Alcoholic beverages may not be brought into the facility by any person or outside service. The ACC catering is exclusive to the in-house food and beverage management company (ACC Catering). Additional Event Staff or an LPO may be required for event functions serving alcohol.
+Alcoholic beverages may not be brought into the facility by any person or outside service. The PEC catering is exclusive to the in-house food and beverage management company (ACC Catering). Additional Event Staff or an LPO may be required for event functions serving alcohol.
 
 The sales and service of all alcohol in the facility is regulated by the Texas Alcoholic and Beverage Commission (TABC). It is the PEC’s responsibility to abide by and administer such rules. All alcoholic beverages must be dispensed by TABC trained facility personnel only.
 
