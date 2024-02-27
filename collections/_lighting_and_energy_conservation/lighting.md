@@ -18,5 +18,3 @@ Fluorescent lighting in the facility is not dimmable.
 The ballrooms and exhibit halls have metal halide lights.
 
 The Client is responsible for the costs associated with requests to remove light bulbs to gain a specific lighting effect within the exhibit halls.
-
-The directional lighting grid in Ballrooms D-G is east to west and the directional lighting grid in Ballrooms A-C is north to south.
