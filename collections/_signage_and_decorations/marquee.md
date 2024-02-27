@@ -1,6 +1,6 @@
 ---
 title: Marquee
-order: 3
+order: 6
 ---
 
-Palmer Events Center manages the messages displayed on the marquee, the date the message will appear, as well as, the facility’s information line. Clients are required to submit event information for approval and display. The marquee is not available for advertising purposes.
+The PEC manages the messages displayed on the marquee, the date the message will appear, as well as PEC information line. The Client is required to submit event information for approval and display. The marquee is not available for purposes of advertising.
