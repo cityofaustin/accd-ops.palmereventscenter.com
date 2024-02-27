@@ -3,4 +3,4 @@ title: Carts and Dollies
 order: 2
 ---
 
-Palmer Events Center provides complimentary carts based on available inventory. Please note carts may be shared with multiple events in the building.
+Carts are not provided by the PEC for move-in, show, move-out and/or movement of any materials. Carts may be rented from an outside contractor or brought onsite by the Client or their exhibitors.
