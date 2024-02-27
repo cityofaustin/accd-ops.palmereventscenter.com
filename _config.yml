@@ -129,7 +129,7 @@ collections:
     output: true
     section_order: 28
   services_and_amenities:
-    name: Services and Amenities
+    name: Services
     output: true
     section_order: 29
   signage_and_decorations:
