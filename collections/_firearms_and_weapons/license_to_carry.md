@@ -1,10 +1,10 @@
 ---
-title: License to Carry Policy
-order: 3
+title: License to Carry
+order: 4
 ---
 
-**We follow all applicable State and local laws regarding the license to carry handguns in the facilities.**
-					 							
-- Notify your Event Security Coordinator about your decision concerning weapons by filling out the All Weapons-Free or Lawful Carried Weapons Permitted form. It is our policy to allow our clients who lease space to generally control access to the space. This includes any decision to allow or not allow lawfully carried handguns (concealed or openly carried) in the leased space, during the time of the leasehold. 
-- Some areas are considered "Non-Public" and accessible to authorized persons only. These non-public areas include service halls, service yards, and department business offices. Weapons, including those lawfully carried, are restricted from these areas. 	
-- Illegal weapons are prohibited at all times. 
+The Austin Convention Center Department follows all applicable State and local laws regarding the licensed carrying of handguns in the facilities.
+
+- a. It is the policy of the Austin Convention Center Department to allow tenants/clients who lease space to generally control access to the space, including any decision to allow or not allow lawfully carried handguns (concealed or openly carried) in the leased space, during the time of the leasehold. The client is responsible for posting any and all legal signage pertaining to the law.
+- b. Some areas of Austin Convention Center Department facilities are considered “Non-Public” and accessible to authorized persons only. These non-public areas include service halls, service yards and department business offices. Weapons, including those lawfully carried, are restricted from these areas.
+- c. Illegal weapons are prohibited at all times.

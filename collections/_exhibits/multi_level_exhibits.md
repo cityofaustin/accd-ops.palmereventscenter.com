@@ -1,18 +1,21 @@
 ---
 title: Multi-Level/Two-Story and Covered Booths
-order: 7
+order: 6
 ---
 
-Plans for multi-level exhibits must be reviewed and approved a minimum of ninety (90) days prior to the first contract date. Displays with any type of cover, i.e., tents, buildings, awnings, etc. must be less than four hundred square feet (400 sq. ft.).
+Plans for multi-level exhibits must be reviewed and approved a minimum of ninety (90) days prior to the event. The following requirements apply to all Multi-Level Booths. Maximum Occupant Load of 9 for second level.
 
-**Adhere to the following requirements and contact your Event Coordinator if your booth is four hundred square feet (400 sq. ft.) or larger:**
-
-- Email two (2) copies of scaled, signed, and dated blueprints (with front and side elevations) by a registered architect or certified engineer to your event Coordinator or mail to City of Austin - Austin Convention Center Department at P.O. Box 1088, Austin, Texas 78767- 8838.
+- Construction documents for multi-level booth required to be submitted to event coordinator for review by Fire Marshal.
 - Plans must include show name and dates.
 - Plans must include the exhibitor’s name and assigned booth number.
-- Protection from an automatic extinguishing system may be required.
-- Each enclosed or covered area may need to be protected by an audible smoke detector. This includes closets built into the exhibit.
-- Maximum occupancy of the load bearing area(s) is limited to one (1) person per fifteen net square feet (15 nsf) of floor space. The maximum occupancy must be posted.
-- The upper deck of the multi-level exhibit may require two exits.
-- An aisle of ten feet (10’) may be required between multi-level exhibits.
+- An approved automatic sprinkler system shall be provided in multi-level booths exceeding 400 sq. ft. in floor area per level.
+- Each enclosed or covered area must be protected by an audible smoke detector. This includes closets built into the exhibit.
+- An aisle of ten feet (10’) must be maintained between multi-level exhibits.
 - The minimum ceiling height per floor is eight feet (8’).
+- Maximum height of the second level floor shall be no more than twelve feet (12’) from the ground floor.
+- All multi-level exhibits must have one (1) 2A10BC fire extinguisher on each level.
+
+### Multi-level Booths with occupant load of greater than 9 people on second level:
+- Minimum 2 egress stairwells from second floor required and located on opposite sides of structure.
+- Construction documents required to be stamped and approved by a Licensed Engineer in the State of Texas. Document required to be submitted to the ACCD Fire Marshal or City of Austin Building Inspector for permit approval.
+- Maximum occupancy of the load bearing area(s) is limited to one (1) person per fifteen net square feet (15nsf) of floor space. The maximum occupancy load of upper level must be posted.

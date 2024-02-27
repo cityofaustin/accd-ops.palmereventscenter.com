@@ -25,7 +25,7 @@ collections:
     output: true
     section_order: 2
   audio_visual:
-    name: Rigging/Audio Visual
+    name: Audio Visual
     output: true
     section_order: 3
   health_and_safety:
@@ -65,7 +65,7 @@ collections:
     output: true
     section_order: 12
   catering:
-    name: Catering
+    name: Food and Beverage
     output: true
     section_order: 13
   freight_and_shipments:
@@ -89,7 +89,7 @@ collections:
     output: true
     section_order: 18
   motorized_equipment:
-    name: Motorized Equipment and Vehicles
+    name: Motorized Equipment, Vehicles and Fuel
     output: true
     section_order: 19
   move_in_move_out:
@@ -129,7 +129,7 @@ collections:
     output: true
     section_order: 28
   services_and_amenities:
-    name: Services and Amenities
+    name: Services
     output: true
     section_order: 29
   signage_and_decorations:

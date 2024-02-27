@@ -1,14 +1,12 @@
 ---
 title: Animals in Exhibits and Events
-order: 2
+order: 3
 ---
 
-We ask that clients ensure the safety and proper care of approved animals. The following is required when displays include pens or enclosures:					
-- Submit a written request to display animals to your Event Coordinator.
-- USDA certification may be required for certain animals.
-- Animals are not permitted to stay in the facility overnight.
-- Supervise animals at all times.
-- Provide curbing, fencing, or alternate materials to contain animals.
-- Place a protective coating such as plastic to protect our floors and equipment.
-- Place some type of fire retardant absorbent within the pens.
-- Clean-up rented space and properly dispose absorbents and waste.
+The Client assumes full responsibility for any approved animal in the facility. When any approved display includes pens or enclosures containing live animals, the following provisions are required:
+- a. A protective coating such as plastic must be used to protect floors and any PEC equipment.
+- b. Some type of absorbent (i.e. saw dust or fire-retardant wood shavings) must be placed within the pens.
+- c. Curbing, fencing or alternate materials must be provided to contain animals.
+- d. Animals must be supervised at all times.
+- e. Provide clean up and proper disposal of absorbents and waste.
+- f. Animals are not permitted to stay overnight inside the facility.
