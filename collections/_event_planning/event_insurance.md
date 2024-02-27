@@ -13,4 +13,4 @@ A Certificate of Insurance (COI) is required for all events and must be submitte
 - f. The Certificate Holder to read: City of Austin – Austin Convention Center Department, P.O. Box 1088, Austin, TX 78767-8838.
 - g. Acceptance of the insurance by the City shall not relieve, limit or decrease the liability of the Client. Any policy deductibles or retention is the responsibility of the Client.
 - h. The Client must control any special or unusual hazards and be responsible for any damage resulting from those hazards. The City of Austin does not represent these insurance requirements which are sufficient to protect the Client’s interests or provide adequate coverage.
-- i. In the event insurance required is not provided or is canceled, the Client is not permitted to begin set-up of their event. Once proper proof of insurance is provided, the ACC staff will permit the Client to proceed with their event.
+- i. In the event insurance required is not provided or is canceled, the Client is not permitted to begin set-up of their event. Once proper proof of insurance is provided, the PEC staff will permit the Client to proceed with their event.
