@@ -5,7 +5,7 @@ order: 6
 
 All event personnel, including the employees of service contactors, must check in with ACCD Security upon entering the facility and wear an approved identification device while on ACCD property.
 
-All event personnel, including show and service contactor staff, exhibitor-appointed contract staff, temporary staff, exhibitors and other workers affiliated with an event must enter and exit the facility through the entrance and exits designated by the Client and the ACC.
+All event personnel, including show and service contactor staff, exhibitor-appointed contract staff, temporary staff, exhibitors and other workers affiliated with an event must enter and exit the facility through the entrance and exits designated by the Client and the PEC.
 
 All event personnel are subject to inspection of cartons, packages or containers brought into or taken out of the facility.
 
