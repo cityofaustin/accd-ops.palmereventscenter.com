@@ -9,7 +9,7 @@ Any event that requires, as part of its planning and production or as a byproduc
 - b. A detailed plan of how materials will be handled, utilized or the process of how they will be produced onsite.
 - c. A detailed plan of how the materials will be removed and any associated cleanup performed.
 
-Your Event Coordinator can assist you with facilitating these arrangements with the ACC Security and Safety Division and the Austin Fire Department.
+Your Event Coordinator can assist you with facilitating these arrangements with the PEC Security and Safety Division and the Austin Fire Department.
 
 All potentially hazardous or medical waste shall be removed from the facility at the end of the contracted event dates. Needles and sharps shall be disposed in RED puncture-resistant containers labeled with the bio-hazard symbol. All unregulated waste contaminated with blood or other potentially infectious materials (OPIM) shall be double bagged.
 
