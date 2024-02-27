@@ -4,7 +4,7 @@ order: 1
 ---
 
 Garage parking for the PEC is located at 900 Barton Springs (link to [Google Maps](https://www.google.com/maps/dir//Parking+for+Palmer+Events+Center+Long+Center,+736-820+Barton+Springs+Rd,+Austin,+TX+78704/@30.2595283,-97.7545287,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8644b504b5841e13:0xc4a134d21c18e355!2m2!1d-97.75234!2d30.2595283!3e0)). 
-Paid parking is a variable rate and payment is collected upon exit of the garages. Unobstructed height clearance throughout the PEC parking garages is six feet, eight inches (7’2”).
+Unobstructed height clearance throughout the PEC parking garages is six feet, eight inches (7’2”).
 
 If the Client is paying for attendee event parking, contact your Event Coordinator for options and information.
 
