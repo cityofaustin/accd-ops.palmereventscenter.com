@@ -15,7 +15,7 @@ All curtains, drapes, decorations and decorative or construction materials are t
 
 Whenever, in the opinion of the AFD, it is essential for public safety in any place of public assembly, the owner, agent, or lessee shall employ one or more qualified persons, as required and approved by the AFD, to be on duty. These individuals shall be subject to the AFD’s orders and shall be in uniform and remain on duty during the times such places are open to the public.
 
-All event floor plans require ACC approval. Your Event Coordinator will submit all floor plans to the Fire Marshal for approval. The Client is cautioned not to sell exhibit space until the Fire Marshal has approved the floor plan in an effort to avoid costly changes involving exhibitions. Fire hose cabinets, fire pull stations, aisle ways and exits may not be blocked.
+All event floor plans require PEC approval. Your Event Coordinator will submit all floor plans to the Fire Marshal for approval. The Client is cautioned not to sell exhibit space until the Fire Marshal has approved the floor plan in an effort to avoid costly changes involving exhibitions. Fire hose cabinets, fire pull stations, aisle ways and exits may not be blocked.
 
 Multi-level exhibits and single-level exhibits with an enclosed ceiling, vehicles, boats, and similar exhibited products having over three hundred square feet (400 sq. ft.) of roofed area must be approved in advance (see Multi Level Exhibits).
 
