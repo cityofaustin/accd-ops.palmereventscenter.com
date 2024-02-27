@@ -1,6 +1,6 @@
 ---
 title: Signs, Window Clings and Carpet Adhesive Graphics
-order: 5
+order: 8
 ---
 
 The PEC strives to accommodate requests to promote events with interior signs, banners, and other forms of promotional advertisement, including exhibitor’s requests for signage above booth areas. The following guidelines are designed to protect the interest of all users of the facility and maintain an appropriate building environment. Generally, these guidelines do not apply to floor installations by individual exhibitors within exhibit booths.
